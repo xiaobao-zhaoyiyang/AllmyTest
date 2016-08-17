@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CopyYeeaooTF</string>
+    <string name="textTest">整数型:%1$d，浮点型：%2$.2f，字符串:%3$s</string>
+</resources>

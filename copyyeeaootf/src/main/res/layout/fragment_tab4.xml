@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/id_circleImageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/id_frescoImageView"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+
+        fresco:placeholderImage="@drawable/icon_placeholder"
+        fresco:placeholderImageScaleType="fitCenter"
+
+        fresco:progressBarImage="@drawable/icon_progress_bar"
+        fresco:progressBarImageScaleType="centerInside"
+        fresco:progressBarAutoRotateInterval="5000"
+
+        fresco:failureImage="@drawable/icon_failure"
+        fresco:failureImageScaleType="centerInside"
+
+        fresco:retryImage="@drawable/icon_retry"
+        fresco:retryImageScaleType="centerCrop"
+
+        fresco:fadeDuration="500"
+
+        fresco:backgroundImage="@android:color/holo_orange_light"
+
+        fresco:roundedCornerRadius="30dp"
+        fresco:roundTopLeft="false"
+        fresco:roundTopRight="true"
+        fresco:roundBottomLeft="true"
+        fresco:roundBottomRight="true"
+
+        fresco:roundingBorderWidth="2dp"
+        fresco:roundingBorderColor="@android:color/black"
+        />
+    <!--
+    fresco:roundAsCircle="true"
+     fresco:pressedStateOverlayImage="@android:color/holo_green_dark"
+     fresco:overlayImage="@android:color/black"
+        -->
+</LinearLayout>

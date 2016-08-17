@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res-atuo">
+    <item
+        android:id="@+id/restart"
+        android:orderInCategory="100"
+        android:title="再来一局"
+        android1:showAsAction="never" />
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_withBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击截取屏幕（有状态栏）" />
+
+    <Button
+        android:id="@+id/btn_noBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击截取屏幕（无状态栏）" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/qipao_blue_my"
+        android:src="@mipmap/flower"
+        android:scaleType="centerInside"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/qipao_blue_my"
+        android:text="好"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:gravity="center_vertical"/>
+</LinearLayout>

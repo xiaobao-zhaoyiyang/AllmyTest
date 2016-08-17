@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Imooc_recorder.iml" filepath="$PROJECT_DIR$/Imooc_recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothtest/bluetoothtest.iml" filepath="$PROJECT_DIR$/bluetoothtest/bluetoothtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/copyyeeaootf/copyyeeaootf.iml" filepath="$PROJECT_DIR$/copyyeeaootf/copyyeeaootf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gellerydemo/gellerydemo.iml" filepath="$PROJECT_DIR$/gellerydemo/gellerydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imitationofwechat/imitationofwechat.iml" filepath="$PROJECT_DIR$/imitationofwechat/imitationofwechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_arcmenu/imooc_arcmenu.iml" filepath="$PROJECT_DIR$/imooc_arcmenu/imooc_arcmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_camera/imooc_camera.iml" filepath="$PROJECT_DIR$/imooc_camera/imooc_camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_downloaddemo/imooc_downloaddemo.iml" filepath="$PROJECT_DIR$/imooc_downloaddemo/imooc_downloaddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_festval_msm/imooc_festval_msm.iml" filepath="$PROJECT_DIR$/imooc_festval_msm/imooc_festval_msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_guaguaka/imooc_guaguaka.iml" filepath="$PROJECT_DIR$/imooc_guaguaka/imooc_guaguaka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_image/imooc_image.iml" filepath="$PROJECT_DIR$/imooc_image/imooc_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_imageloader/imooc_imageloader.iml" filepath="$PROJECT_DIR$/imooc_imageloader/imooc_imageloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_mooo/imooc_mooo.iml" filepath="$PROJECT_DIR$/imooc_mooo/imooc_mooo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_progressbar/imooc_progressbar.iml" filepath="$PROJECT_DIR$/imooc_progressbar/imooc_progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_recyclerview/imooc_recyclerview.iml" filepath="$PROJECT_DIR$/imooc_recyclerview/imooc_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_shake/imooc_shake.iml" filepath="$PROJECT_DIR$/imooc_shake/imooc_shake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_tab01/imooc_tab01.iml" filepath="$PROJECT_DIR$/imooc_tab01/imooc_tab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_tab02/imooc_tab02.iml" filepath="$PROJECT_DIR$/imooc_tab02/imooc_tab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_tab03/imooc_tab03.iml" filepath="$PROJECT_DIR$/imooc_tab03/imooc_tab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_topbar/imooc_topbar.iml" filepath="$PROJECT_DIR$/imooc_topbar/imooc_topbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_treeview/imooc_treeview.iml" filepath="$PROJECT_DIR$/imooc_treeview/imooc_treeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_update/imooc_update.iml" filepath="$PROJECT_DIR$/imooc_update/imooc_update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_viewpageindicator/imooc_viewpageindicator.iml" filepath="$PROJECT_DIR$/imooc_viewpageindicator/imooc_viewpageindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_viewpager_anim/imooc_viewpager_anim.iml" filepath="$PROJECT_DIR$/imooc_viewpager_anim/imooc_viewpager_anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_webview/imooc_webview.iml" filepath="$PROJECT_DIR$/imooc_webview/imooc_webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_wechat/imooc_wechat.iml" filepath="$PROJECT_DIR$/imooc_wechat/imooc_wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_weixin6.0/imooc_weixin6.0.iml" filepath="$PROJECT_DIR$/imooc_weixin6.0/imooc_weixin6.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_wuziqi/imooc_wuziqi.iml" filepath="$PROJECT_DIR$/imooc_wuziqi/imooc_wuziqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_zoomimageview/imooc_zoomimageview.iml" filepath="$PROJECT_DIR$/imooc_zoomimageview/imooc_zoomimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indexablelistview/indexablelistview.iml" filepath="$PROJECT_DIR$/indexablelistview/indexablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicindicator/magicindicator.iml" filepath="$PROJECT_DIR$/magicindicator/magicindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduletest/moduletest.iml" filepath="$PROJECT_DIR$/moduletest/moduletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrcode_demo/qrcode_demo.iml" filepath="$PROJECT_DIR$/qrcode_demo/qrcode_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quicksidebar/quicksidebar.iml" filepath="$PROJECT_DIR$/quicksidebar/quicksidebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" filepath="$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" filepath="$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflipper/viewflipper.iml" filepath="$PROJECT_DIR$/viewflipper/viewflipper.iml" />
+    </modules>
+  </component>
+</project>

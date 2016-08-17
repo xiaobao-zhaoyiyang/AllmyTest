@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Imooc_recorder.iml" filepath="$PROJECT_DIR$/../Imooc_recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gellerydemo/gellerydemo.iml" filepath="$PROJECT_DIR$/../gellerydemo/gellerydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_camera/imooc_camera.iml" filepath="$PROJECT_DIR$/../imooc_camera/imooc_camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_tab01/imooc_tab01.iml" filepath="$PROJECT_DIR$/../imooc_tab01/imooc_tab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_tab02/imooc_tab02.iml" filepath="$PROJECT_DIR$/../imooc_tab02/imooc_tab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_tab03.iml" filepath="$PROJECT_DIR$/imooc_tab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_viewpageindicator/imooc_viewpageindicator.iml" filepath="$PROJECT_DIR$/../imooc_viewpageindicator/imooc_viewpageindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_viewpager_anim/imooc_viewpager_anim.iml" filepath="$PROJECT_DIR$/../imooc_viewpager_anim/imooc_viewpager_anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_webview/imooc_webview.iml" filepath="$PROJECT_DIR$/../imooc_webview/imooc_webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_wechat/imooc_wechat.iml" filepath="$PROJECT_DIR$/../imooc_wechat/imooc_wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imooc_zoomimageview/imooc_zoomimageview.iml" filepath="$PROJECT_DIR$/../imooc_zoomimageview/imooc_zoomimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../indexablelistview/indexablelistview.iml" filepath="$PROJECT_DIR$/../indexablelistview/indexablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytest/mytest.iml" filepath="$PROJECT_DIR$/../mytest/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlitedemo/sqlitedemo.iml" filepath="$PROJECT_DIR$/../sqlitedemo/sqlitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewflipper/viewflipper.iml" filepath="$PROJECT_DIR$/../viewflipper/viewflipper.iml" />
+    </modules>
+  </component>
+</project>

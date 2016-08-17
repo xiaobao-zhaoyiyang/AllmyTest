@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="weixin_icon" format="reference" />
+    <attr name="weixin_color" format="color" />
+    <attr name="weixin_text" format="string" />
+    <attr name="weixin_text_size" format="dimension" />
+    <declare-styleable name="ChangeColorIconWithText">
+        <attr name="weixin_icon"/>
+        <attr name="weixin_color"/>
+        <attr name="weixin_text"/>
+        <attr name="weixin_text_size"/>
+    </declare-styleable>
+</resources>

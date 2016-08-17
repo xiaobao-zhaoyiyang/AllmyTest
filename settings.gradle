@@ -1,0 +1,5 @@
+include ':app', ':imooc_viewpageindicator', ':imooc_zoomimageview', ':imooc_camera', ':qrcode_demo', ':imooc_wuziqi', ':imooc_treeview', ':imooc_image', ':imooc_recyclerview', ':imooc_weixin6.0', ':imooc_mooo', ':imooc_topbar', ':imooc_progressbar', ':moduletest', ':imooc_guaguaka', ':imooc_shake', ':imooc_imageloader', ':imooc_arcmenu', ':imooc_downloaddemo', ':imooc_festval_msm', ':bluetoothtest', ':copyyeeaootf', ':imooc_update', ':imitationofwechat',
+        ':imooc_webview', ':viewflipper', ':gellerydemo', ':indexablelistview',
+        ':sqlitedemo', ':imooc_viewpager_anim', ':imooc_wechat', ':mytest',
+        ':imooc_tab01', ':imooc_tab02', ':imooc_tab03', ':library', 'libzxing', ':sample-okhttp', ':okhttputils', ':sample', ':magicindicator', ':quicksidebar'
+

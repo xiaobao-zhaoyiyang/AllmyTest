@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothTest</string>
+    <string name="btu_startConnect">启动连接</string>
+    <string name="name">蓝牙聊天</string>
+    <string name="stop_device">取消搜索</string>
+    <string name="send_fail">发送失败</string>
+</resources>

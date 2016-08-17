@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../gellerydemo" />
+            <option value="$PROJECT_DIR$/../imooc_camera" />
+            <option value="$PROJECT_DIR$/../imooc_tab01" />
+            <option value="$PROJECT_DIR$/../imooc_tab02" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../imooc_viewpageindicator" />
+            <option value="$PROJECT_DIR$/../imooc_viewpager_anim" />
+            <option value="$PROJECT_DIR$/../imooc_webview" />
+            <option value="$PROJECT_DIR$/../imooc_wechat" />
+            <option value="$PROJECT_DIR$/../imooc_zoomimageview" />
+            <option value="$PROJECT_DIR$/../indexablelistview" />
+            <option value="$PROJECT_DIR$/../mytest" />
+            <option value="$PROJECT_DIR$/../sqlitedemo" />
+            <option value="$PROJECT_DIR$/../viewflipper" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../gellerydemo" />
+            <option value="$PROJECT_DIR$/../imooc_camera" />
+            <option value="$PROJECT_DIR$/../imooc_tab01" />
+            <option value="$PROJECT_DIR$/../imooc_tab02" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../imooc_viewpageindicator" />
+            <option value="$PROJECT_DIR$/../imooc_viewpager_anim" />
+            <option value="$PROJECT_DIR$/../imooc_webview" />
+            <option value="$PROJECT_DIR$/../imooc_wechat" />
+            <option value="$PROJECT_DIR$/../imooc_zoomimageview" />
+            <option value="$PROJECT_DIR$/../indexablelistview" />
+            <option value="$PROJECT_DIR$/../mytest" />
+            <option value="$PROJECT_DIR$/../sqlitedemo" />
+            <option value="$PROJECT_DIR$/../viewflipper" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
