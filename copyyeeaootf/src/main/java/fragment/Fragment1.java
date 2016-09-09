@@ -42,7 +42,7 @@ public class Fragment1 extends Fragment implements View.OnClickListener {
     private ImageView mTabLine, mLine;
     private int mCurrentPageIndex;
 
-    private String[] title = new String[]{"猜你爱", "新分享", "赞点评", "精华帖", "优微课"};
+    private String[] title = new String[]{"猜你爱", "新分享", "赞点评", "精华帖", "优微课", "瞎咋呼"};
     private ArrayList<TextView> mTitleText = new ArrayList<>();
     private LinearLayout mTabContainer;
 
@@ -81,12 +81,14 @@ public class Fragment1 extends Fragment implements View.OnClickListener {
         Fragment_In_3 tab03 = new Fragment_In_3();
         Fragment_In_4 tab04 = new Fragment_In_4();
         Fragment_In_5 tab05 = new Fragment_In_5();
+        Fragment_In_6 tab06 = new Fragment_In_6();
 
         mDatas.add(tab01);
         mDatas.add(tab02);
         mDatas.add(tab03);
         mDatas.add(tab04);
         mDatas.add(tab05);
+        mDatas.add(tab06);
         mAdapter = new FragmentPagerAdapter(getActivity().getSupportFragmentManager()) {
             @Override
             public Fragment getItem(int position) {

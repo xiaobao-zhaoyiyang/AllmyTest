@@ -16,6 +16,7 @@ import com.facebook.drawee.interfaces.DraweeController;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 import de.hdodenhof.circleimageview.CircleImageView;
+import tool.TemperatureView;
 
 /**
  * Created by yo on 2016/7/29.
@@ -24,6 +25,8 @@ public class Fragment_In_4 extends Fragment {
     private View view;
     private CircleImageView circleImageView;
     private SimpleDraweeView simpleDraweeView;
+    private TemperatureView temperatureView;
+
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         if (view == null){
@@ -46,7 +49,7 @@ public class Fragment_In_4 extends Fragment {
 
         GenericDraweeHierarchy genericDraweeHierarchy = new GenericDraweeHierarchyBuilder(getResources())
                 .build();
-        simpleDraweeView.setHierarchy(genericDraweeHierarchy);
+//        simpleDraweeView.setHierarchy(genericDraweeHierarchy);
 
         simpleDraweeView.setImageURI(url);
 
@@ -63,5 +66,23 @@ public class Fragment_In_4 extends Fragment {
 
         //设置DraweeController
         simpleDraweeView.setController(controller);
+
+        temperatureView = (TemperatureView) view.findViewById(R.id.id_temperatureView);
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (float i = 0; i <= 40; i ++) {
+                    temperatureView.setCurrentTemp(i);
+                    try {
+                        Thread.sleep(1000);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+        }).start();
     }
+
+
+
 }

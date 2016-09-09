@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Imooc_recorder.iml" filepath="$PROJECT_DIR$/Imooc_recorder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LyricView/app.iml" filepath="$PROJECT_DIR$/LyricView/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addtocardDemo/addtocardDemo.iml" filepath="$PROJECT_DIR$/addtocardDemo/addtocardDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addtocart/addtocart.iml" filepath="$PROJECT_DIR$/addtocart/addtocart.iml" />
       <module fileurl="file://$PROJECT_DIR$/bluetoothtest/bluetoothtest.iml" filepath="$PROJECT_DIR$/bluetoothtest/bluetoothtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coinWalletAnimation/coinWalletAnimation.iml" filepath="$PROJECT_DIR$/coinWalletAnimation/coinWalletAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/copyyeeaootf/copyyeeaootf.iml" filepath="$PROJECT_DIR$/copyyeeaootf/copyyeeaootf.iml" />
       <module fileurl="file://$PROJECT_DIR$/gellerydemo/gellerydemo.iml" filepath="$PROJECT_DIR$/gellerydemo/gellerydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/imitationofwechat/imitationofwechat.iml" filepath="$PROJECT_DIR$/imitationofwechat/imitationofwechat.iml" />
@@ -41,6 +44,8 @@
       <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
       <module fileurl="file://$PROJECT_DIR$/qrcode_demo/qrcode_demo.iml" filepath="$PROJECT_DIR$/qrcode_demo/qrcode_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/quicksidebar/quicksidebar.iml" filepath="$PROJECT_DIR$/quicksidebar/quicksidebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recorder/recorder.iml" filepath="$PROJECT_DIR$/recorder/recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" filepath="$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" filepath="$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" filepath="$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" />

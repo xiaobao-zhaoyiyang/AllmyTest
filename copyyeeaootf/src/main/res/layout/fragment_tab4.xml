@@ -43,9 +43,9 @@
         fresco:roundingBorderWidth="2dp"
         fresco:roundingBorderColor="@android:color/black"
         />
-    <!--
-    fresco:roundAsCircle="true"
-     fresco:pressedStateOverlayImage="@android:color/holo_green_dark"
-     fresco:overlayImage="@android:color/black"
-        -->
+
+    <tool.TemperatureView
+        android:id="@+id/id_temperatureView"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
 </LinearLayout>
